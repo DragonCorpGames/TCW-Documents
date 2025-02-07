@@ -1,6 +1,8 @@
 ---
-description: General workforce and specialized personnel managing assets and operations.
+description: >-
+  Mano de obra general y personal especializado a cargo de la gestión de activos
+  y operaciones.
 ---
 
-# Staff and Crew
+# Personal y Tripulación
 

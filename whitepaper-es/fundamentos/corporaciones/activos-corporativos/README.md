@@ -1,8 +1,8 @@
 ---
 description: >-
-  Infrastructure, holdings, and personnel critical for expansion and
-  sustainability.
+  Infraestructura, activos y personal esenciales para la expansión y
+  sostenibilidad.
 ---
 
-# Corporate Assets
+# Activos Corporativos
 

@@ -1,8 +1,8 @@
 ---
 description: >-
-  Surveying, harvesting, extraction, storage, process and management of natural
-  resources.
+  Prospección, recolección, extracción, almacenamiento, procesamiento y gestión
+  de recursos naturales.
 ---
 
-# Grant Exploitation
+# Explotación de Concesiones
 

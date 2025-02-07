@@ -1,8 +1,8 @@
 ---
 description: >-
-  Construction, management, and operation of colonial infrastructures and
-  essential services.
+  Construcción, gestión y operación de infraestructuras coloniales y servicios
+  esenciales.
 ---
 
-# Colonial Services
+# Servicios Coloniales
 

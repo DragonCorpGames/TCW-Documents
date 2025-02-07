@@ -1,6 +1,6 @@
 ---
-description: Legal permissions and ownership rights governing operations.
+description: Permisos legales y derechos de propiedad que rigen las operaciones.
 ---
 
-# Grants and Licenses
+# Concesiones y Licencias
 

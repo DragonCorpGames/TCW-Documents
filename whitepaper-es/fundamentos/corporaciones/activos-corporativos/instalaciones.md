@@ -1,6 +1,8 @@
 ---
-description: Operational hubs and production centers essential for expansion and logistics.
+description: >-
+  Centros operativos y de producción esenciales para la expansión y la
+  logística.
 ---
 
-# Facilities
+# Instalaciones
 

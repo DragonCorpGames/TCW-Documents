@@ -1,6 +1,8 @@
 ---
-description: Clusters of mineral-rich space debris essential for industrial supply chains.
+description: >-
+  Conjuntos de escombros espaciales ricos en minerales, cruciales para las
+  cadenas de suministro industriales.
 ---
 
-# Asteroid Belts
+# Cinturones de Asteroides
 

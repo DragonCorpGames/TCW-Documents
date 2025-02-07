@@ -1,8 +1,8 @@
 ---
 description: >-
-  Processing, fabrication, assembly, and mass production of industrial and
-  consumer goods
+  Procesamiento, fabricación, ensamblaje y producción en masa de bienes
+  industriales y de consumo.
 ---
 
-# Manufacturing
+# Manufactura
 

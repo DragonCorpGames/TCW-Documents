@@ -1,8 +1,8 @@
 ---
 description: >-
-  The seamless circulation of people and goods through the vast reaches of
-  space, bridging wordls and cultures.
+  La circulación fluida de personas y bienes a través de las vastas extensiones
+  del espacio, conectando mundos y culturas.
 ---
 
-# Space Travel
+# El Viaje Espacial
 

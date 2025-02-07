@@ -1,6 +1,6 @@
 ---
-description: Celestial bodies hosting diverse environments and opportunities.
+description: Cuerpos celestes que albergan diversos entornos y oportunidades.
 ---
 
-# Planets and Moons
+# Planetas y Lunas
 

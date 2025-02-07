@@ -1,6 +1,6 @@
 ---
-description: Defining initial operational scope and strategic opportunities.
+description: Definiendo el alcance operativo inicial y las oportunidades estratégicas.
 ---
 
-# Licensed Operations
+# Operaciones Autorizadas
 

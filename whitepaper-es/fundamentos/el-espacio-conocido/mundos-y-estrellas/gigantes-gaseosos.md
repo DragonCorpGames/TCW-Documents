@@ -1,6 +1,6 @@
 ---
-description: Massive planetary bodies with exploitable atmospheric resources.
+description: Cuerpos planetarios masivos con recursos atmosféricos explotables.
 ---
 
-# Gas Giants
+# Gigantes Gaseosos
 

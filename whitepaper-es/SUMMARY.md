@@ -7,7 +7,7 @@
 * [Corporaciones](fundamentos/corporaciones/README.md)
   * [Operaciones Autorizadas](fundamentos/corporaciones/operaciones-autorizadas/README.md)
     * [Servicios Coloniales](fundamentos/corporaciones/operaciones-autorizadas/servicios-coloniales.md)
-    * [Enforcement and Security](fundamentos/corporaciones/operaciones-autorizadas/enforcement-and-security.md)
+    * [Policía y Seguridad](fundamentos/corporaciones/operaciones-autorizadas/policia-y-seguridad.md)
     * [Explotación de Concesiones](fundamentos/corporaciones/operaciones-autorizadas/explotacion-de-concesiones.md)
     * [Manufactura](fundamentos/corporaciones/operaciones-autorizadas/manufactura.md)
     * [Comercio y Transporte](fundamentos/corporaciones/operaciones-autorizadas/comercio-y-transporte.md)

@@ -1,8 +1,8 @@
 ---
 description: >-
-  Interstellar transportation and propulsion technologies enabling galactic
-  mobility.
+  Transporte interestelar y tecnologías de propulsión que permiten la movilidad
+  galáctica.
 ---
 
-# Ships and Drives
+# Navíos y Reactores
 

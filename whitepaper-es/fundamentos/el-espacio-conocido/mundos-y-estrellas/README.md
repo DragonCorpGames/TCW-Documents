@@ -1,8 +1,8 @@
 ---
 description: >-
-  Planetary systems and celestial bodies forming the foundation of interstellar
-  expansion.
+  Sistemas planetarios y cuerpos celestes que constituyen las bases de la
+  expansión interestelar.
 ---
 
-# Stars and Worlds
+# Mundos y Estrellas
 

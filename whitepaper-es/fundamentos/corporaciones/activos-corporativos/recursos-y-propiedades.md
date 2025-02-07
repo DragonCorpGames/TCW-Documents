@@ -1,6 +1,6 @@
 ---
-description: Tangible assets, raw materials, and claims under corporate control.
+description: Activos tangibles, materiales y propiedad bajo control corporativo.
 ---
 
-# Resources and Holdings
+# Recursos y Propiedades
 

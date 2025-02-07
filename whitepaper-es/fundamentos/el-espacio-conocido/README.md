@@ -1,8 +1,8 @@
 ---
 description: >-
-  Mapped regions of space, defining the boundaries of exploration, commerce, and
-  civilization.
+  Regiones cartografiadas del espacio, que definen los límites de la
+  exploración, el comercio y la civilización.
 ---
 
-# The Charted Space
+# El Espacio Conocido
 

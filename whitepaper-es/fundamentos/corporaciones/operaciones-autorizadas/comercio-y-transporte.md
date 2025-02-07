@@ -1,8 +1,8 @@
 ---
 description: >-
-  Commercial transportation, mail delivery, and logistics for interstellar trade
-  and supply networks.
+  Transporte comercial, entrega de correo y logística para el comercio
+  interestelar y las redes de suministro.
 ---
 
-# Mercantile and Freight
+# Comercio y Transporte
 
