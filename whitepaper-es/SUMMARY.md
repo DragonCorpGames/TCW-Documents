@@ -116,3 +116,4 @@
 * [Gobernanza](tokenomics/gobernanza/README.md)
   * [Políticas Dirigidas por el Juego](tokenomics/gobernanza/politicas-dirigidas-por-el-juego.md)
   * [Gremios y GAOs](tokenomics/gobernanza/gremios-y-gaos.md)
+  * [Dragon Corp. Games](tokenomics/gobernanza/dragon-corp.-games.md)
