@@ -1,2 +1,0 @@
-# Regulations and Requeriments
-
