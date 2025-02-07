@@ -117,3 +117,6 @@
   * [Políticas Dirigidas por el Juego](tokenomics/gobernanza/politicas-dirigidas-por-el-juego.md)
   * [Gremios y GAOs](tokenomics/gobernanza/gremios-y-gaos.md)
   * [Dragon Corp. Games](tokenomics/gobernanza/dragon-corp.-games.md)
+* [Early Adoption](tokenomics/early-adoption/README.md)
+  * [Oferta Incial (ICO)](tokenomics/early-adoption/oferta-incial-ico.md)
+  * [Paquetes de Activos](tokenomics/early-adoption/paquetes-de-activos.md)
