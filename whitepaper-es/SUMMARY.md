@@ -33,9 +33,9 @@
   * [El Viaje Espacial](fundamentos/el-espacio-conocido/el-viaje-espacial/README.md)
     * [Astropuertos](fundamentos/el-espacio-conocido/el-viaje-espacial/astropuertos.md)
     * [Navíos y Reactores](fundamentos/el-espacio-conocido/el-viaje-espacial/navios-y-reactores.md)
-* [Economía y Comercio](fundamentos/economia-y-comercio/README.md)
-  * [Pasaje y Carga](fundamentos/economia-y-comercio/pasaje-y-carga.md)
-  * [Correo Interestelar](fundamentos/economia-y-comercio/correo-interestelar.md)
+* [Comercio Interestelar](fundamentos/comercio-interestelar/README.md)
+  * [Pasaje y Carga](fundamentos/comercio-interestelar/pasaje-y-carga.md)
+  * [Correo Interestelar](fundamentos/comercio-interestelar/correo-interestelar.md)
 
 ## Mechanicas de Juego
 
