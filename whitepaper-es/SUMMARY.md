@@ -120,3 +120,8 @@
 * [Early Adoption](tokenomics/early-adoption/README.md)
   * [Oferta Incial (ICO)](tokenomics/early-adoption/oferta-incial-ico.md)
   * [Paquetes de Activos](tokenomics/early-adoption/paquetes-de-activos.md)
+
+***
+
+* [Roadmap](roadmap/README.md)
+  * [Milestones](roadmap/milestones.md)
