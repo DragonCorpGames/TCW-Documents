@@ -70,14 +70,9 @@
 
 ## Basics
 
-* [Quickstart](basics/quickstart.md)
-* [Publish your docs](basics/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics-1/editor.md)
-* [Markdown](basics-1/markdown.md)
-* [Images & media](basics-1/images-and-media.md)
-* [Interactive blocks](basics-1/interactive-blocks.md)
-* [OpenAPI](basics-1/openapi.md)
-* [Integrations](basics-1/integrations.md)
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [OpenAPI](basics/openapi.md)
+* [Integrations](basics/integrations.md)
