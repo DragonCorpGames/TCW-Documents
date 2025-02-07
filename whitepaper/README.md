@@ -29,3 +29,5 @@ Here, strategy, trade, and banking are not merely tools of negotiation but weapo
 ### Jump right in
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Game Basics</strong></td><td>Learn the game.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Advanced Mechanics</strong></td><td>Deep dive into game systems.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>In-Game P2E Economy</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+
+<div><figure><img src=".gitbook/assets/DraCo180h.png" alt="" width="90"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/UEIcon180h.png" alt="" width="74"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Solana180h.png" alt="" width="76"><figcaption></figcaption></figure></div>
