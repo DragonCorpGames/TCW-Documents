@@ -1,7 +1,7 @@
 ---
 description: >-
-  Commercial transportation, mailing, and logistics for interstellar trade and
-  supply networks.
+  Commercial transportation, mail delivery, and logistics for interstellar trade
+  and supply networks.
 ---
 
 # Mercantile and Freight
