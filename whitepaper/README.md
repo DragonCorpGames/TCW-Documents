@@ -20,9 +20,11 @@ layout:
 
 # The Corporate Wars
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+**The Corporate Wars transports players to the heart of a ruthless stage of power and ambition, where the boldest corporations weave their empires across the vast expanse of the cosmos, where immense distances impose their own rhythm on interstellar societies, waging an unrelenting battle for total control of trade.**
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+**The necessary decentralization of economic systems forces them to adapt to relentless logistical constraints and navigate regulations imposed by various galactic powers. Only those with vision, resources, and the willingness to take risks can secure their place among the titans of the interstellar market.**
+
+**Here, strategy, trade, and banking are not merely tools of negotiation but weapons in private wars for absolute dominance. From financial manipulation to the political subjugation of key regions, every decision is a step toward supremacy in the markets, where the balance of power rests on a thin line between diplomacy and coercion.**
 
 ### Jump right in
 
