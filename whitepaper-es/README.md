@@ -19,11 +19,11 @@ layout:
 
 # The Corporate Wars
 
-The Corporate Wars transporta a los jugadores al corazón de un despiadado escenario de poder y ambición, en el que las corporaciones más audaces tejen sus imperios a través de la vasta extensión del cosmos, donde las enormes distancias imponen su propio ritmo a las sociedades interestelares, librando una batalla sin tregua por el control total del comercio.
+The Corporate Wars transporta a los jugadores a un lejano futuro, donde la humanidad ha conquistado la vastedad del cosmos, pero sigue atrapada en una lucha sin tregua por el control de los mercados y la información.
 
-La necesaria descentralización de los sistemas económicos las obliga a adaptarse a restricciones logísticas implacables y a sortear regulaciones impuestas por diversas potencias galácticas. Solo aquellas con visión, recursos y la voluntad de asumir riesgos pueden consolidar su posición entre los titanes del mercado interestelar.
+Las distancias interestelares hacen inviables las comunicaciones instantáneas, dejando a las rutas comerciales como el único medio fiable para el flujo de datos y recursos. En este frágil entramado, la descentralización económica es una necesidad, pero también una debilidad a explotar. Las corporaciones se enfrentan a restricciones logísticas despiadadas y a regulaciones impuestas por potencias galácticas que buscan mantener su influencia sobre el comercio interplanetario.
 
-Aquí, la estrategia, el comercio y la banca no son solo herramientas de negociación, sino armas en guerras privadas por el dominio absoluto. Desde la manipulación financiera hasta la subyugación política de regiones clave, cada decisión es un paso hacia la supremacía en los mercados, donde el equilibrio de poder se sostiene sobre una delgada línea entre la diplomacia y la coerción.
+En este escenario, la industria, la banca y el comercio no son solo motores de progreso, sino armas en una guerra encubierta por la supremacía. Desde la manipulación financiera hasta la subyugación política de regiones clave, cada decisión redefine el equilibrio de poder. La diplomacia es un velo para la coercón y la información, la moneda más valiosa en un conflicto donde el verdadero campo de batalla es la economía interestelar.
 
 ### Empieza aquí.
 
