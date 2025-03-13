@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -28,4 +27,4 @@ Here, industry, finance, and trade aren’t just the gears of progress—they’
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Game Basics</strong></td><td>Learn the game.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Advanced Mechanics</strong></td><td>Deep dive into game systems.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>In-Game P2E Economy</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Game Basics</strong></td><td>Learn the game.</td><td><a href=".gitbook/assets/jump_right_in.jpg">jump_right_in.jpg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Advanced Mechanics</strong></td><td>Deep dive into game systems.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>In-Game P2E Economy</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
