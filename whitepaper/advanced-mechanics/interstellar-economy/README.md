@@ -1,4 +1,5 @@
 ---
+cover: ../../.gitbook/assets/banner-trade.jpg
 coverY: 0
 layout:
   cover:
