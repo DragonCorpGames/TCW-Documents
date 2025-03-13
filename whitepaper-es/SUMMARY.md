@@ -44,7 +44,7 @@
     * [Créditos](mechanicas-de-juego/economia-interestelar/divisas/creditos.md)
     * [Moneda Local](mechanicas-de-juego/economia-interestelar/divisas/moneda-local.md)
   * [Servicios Financieros](mechanicas-de-juego/economia-interestelar/servicios-financieros/README.md)
-    * [Outdated Decentralization](mechanicas-de-juego/economia-interestelar/servicios-financieros/outdated-decentralization.md)
+    * [Descentralización Desfasada](mechanicas-de-juego/economia-interestelar/servicios-financieros/outdated-decentralization.md)
     * [Préstamos Hipotecarios](mechanicas-de-juego/economia-interestelar/servicios-financieros/prestamos-hipotecarios.md)
     * [Acciones y Valores](mechanicas-de-juego/economia-interestelar/servicios-financieros/acciones-y-valores.md)
     * [Seguros y Cobertura](mechanicas-de-juego/economia-interestelar/servicios-financieros/seguros-y-cobertura.md)
