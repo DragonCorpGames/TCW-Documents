@@ -1,5 +1,4 @@
 ---
-hidden: true
 coverY: 0
 layout:
   cover:
@@ -17,6 +16,6 @@ layout:
     visible: true
 ---
 
-# Tokenomics
+# In-Game P2E
 
 Tokenomics

@@ -1,3 +1,21 @@
+---
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Economía Interestelar
 
 En los miles de mundos habitados de la galaxia, donde convergen innumerables culturas, ideologías y especies, la economía interestelar es un campo de batalla donde solo las corporaciones más astutas logran prosperar.
