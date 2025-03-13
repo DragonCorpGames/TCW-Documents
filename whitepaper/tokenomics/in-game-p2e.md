@@ -16,5 +16,7 @@ layout:
     visible: true
 ---
 
-# Interstellar Economy
+# In-Game P2E
+
+Tokenomics
 

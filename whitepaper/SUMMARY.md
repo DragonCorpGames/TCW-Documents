@@ -95,6 +95,7 @@
 
 ## Tokenomics
 
+* [In-Game P2E](tokenomics/in-game-p2e.md)
 * [SPL Tokens](tokenomics/spl-tokens/README.md)
   * [MegaCredit \[MCr\]](tokenomics/spl-tokens/megacredit-mcr.md)
   * [Resource Units \[RUs\]](tokenomics/spl-tokens/resource-units-rus.md)
