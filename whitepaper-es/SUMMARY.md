@@ -95,6 +95,7 @@
 
 ## Tokenomics
 
+* [Tokenomics](tokenomics/tokenomics.md)
 * [Tokens SPL](tokenomics/tokens-spl/README.md)
   * [MegaCrédito \[MCr\]](tokenomics/tokens-spl/megacredito-mcr.md)
   * [Unidades de Recursos \[RUs\]](tokenomics/tokens-spl/unidades-de-recursos-rus.md)
