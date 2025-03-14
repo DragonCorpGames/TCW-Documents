@@ -104,7 +104,7 @@
   * [Allocation](tokenomics/spl-tokens/allocation.md)
 * [Treasury](tokenomics/treasury/README.md)
   * [In-Game Banking](tokenomics/treasury/in-game-banking.md)
-  * [Staking](tokenomics/treasury/staking.md)
+  * [Staking and Vesting](tokenomics/treasury/staking.md)
   * [Rewards](tokenomics/treasury/rewards.md)
 * [Non Fungible Tokens](tokenomics/non-fungible-tokens/README.md)
   * [Tokenized Rights](tokenomics/non-fungible-tokens/tokenized-rights.md)
