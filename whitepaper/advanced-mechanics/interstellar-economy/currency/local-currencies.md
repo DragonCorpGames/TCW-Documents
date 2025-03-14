@@ -5,3 +5,9 @@ Despite the dominance of the Credit (Cr) in interstellar trade, many societies m
 However, their value is often influenced by factors such as political stability, access to essential goods, and their connection to interstellar trade. In isolated worlds or frontier systems, local currencies can fluctuate drastically in value, directly impacting the cost of living and the viability of commercial operations.
 
 For corporations operating across multiple systems, managing local currencies requires constant conversions, value fluctuations, and strategic financial adjustments. While large-scale transactions are typically conducted in Credits, understanding and controlling local currencies is crucial for establishing successful operations and ensuring economic stability in the regions they serve.
+
+***
+
+{% hint style="warning" %}
+Local currencies are not SPL tokens, but a value that determines the exchange rate between the local economy and the interstellar economy. On the other hand, star systems with economies integrated into interstellar society have such high exchange rates and inflation that they abandon the use of local currencies in favor of Credit.
+{% endhint %}
