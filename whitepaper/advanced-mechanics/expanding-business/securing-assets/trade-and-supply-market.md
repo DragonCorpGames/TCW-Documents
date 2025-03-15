@@ -1,2 +1,9 @@
 # Trade and Supply Market
 
+Corporations in _The Corporate Wars_ can expand their assets not only through direct purchases but also by engaging in trade and the supply market, ensuring continuous access to goods, resources, and key technology for their operations. Instead of acquiring fixed infrastructure or properties, many companies choose to build supply networks that allow them to secure necessary assets without committing to large initial investments.
+
+Intercorporate trade is a common method of acquisition, where supply contracts guarantee access to raw materials, industrial components, and specialized equipment without requiring companies to manufacture or own production facilities. These agreements can be flexible or long-term, depending on market stability and corporate influence in the region. In highly regulated markets, licenses and permits often determine who can access specific goods, restricting acquisition capabilities to established businesses or those with strategic connections.
+
+Beyond formal trade, corporations acquire assets through mergers, partial acquisitions, and the absorption of smaller competitors, securing control over supply chains without investing in direct production. In some cases, participation in investment markets allows companies to gain indirect control over strategic resources, capitalizing on economic fluctuations to secure goods and services without resorting to traditional purchasing methods.
+
+Mastering the supply market is a critical advantage for any corporation with expansionist ambitions. Ensuring a steady flow of essential materials, establishing secure trade routes, and maintaining leverage over key suppliers can be as valuable as owning the assets outright. In a universe where scarcity, speculation, and regulation can drastically disrupt resource access, the most successful corporations are those that adapt and seize every opportunity in the ever-evolving landscape of interstellar commerce.

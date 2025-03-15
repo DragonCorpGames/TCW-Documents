@@ -1,2 +1,9 @@
-# Starports
+# Starport Authority
 
+In _The Corporate Wars_, starport administration is typically a governmental responsibility or overseen by an interstellar regulatory institution, ensuring compliance with traffic, security, and trade regulations. However, corporations can acquire permits to operate private infrastructure within or near a starport, allowing them to solidify their presence in interstellar commerce without needing to assume full control of the primary facility.
+
+Corporate-run ports function as private terminals, offering specialized services to clients and affiliated fleets without relying on public system administration. These facilities may include dedicated loading and unloading platforms, exclusive hangars, storage zones, and refueling centers, enabling corporations to streamline their logistics and reduce external interference. Obtaining permits for these operations requires compliance with local regulations and agreements with the official port authority, with terms that vary depending on governmental control and interstellar influence in the region.
+
+While most starports remain under state control, exceptions exist where corporations take over full management of a space transit hub. This occurs in highly privatized economies, in regions where a company has entirely financed and built the port infrastructure, or in territories without a centralized authority, where the corporation becomes the sole entity capable of managing space traffic.
+
+Regardless of the level of control, operating within the starport sector is a strategic move for any corporation with expansionist ambitions. Owning dedicated infrastructure within or adjacent to a starport reduces costs, enhances cargo transit efficiency, and establishes a closed logistical network, ensuring security and exclusivity for its operations. In a universe where access to galactic markets defines corporate success, controlling the flow of goods and personnel—even partially—grants a decisive advantage in the race for commercial supremacy.
