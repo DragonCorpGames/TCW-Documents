@@ -1,2 +1,7 @@
 # Characters
 
+In _The Corporate Wars_, characters represent the highly specialized workforce that keeps corporations running. These professionals possess advanced training and experience, making them essential assets in the corporate landscape. Their availability is shaped by the strength of the labor market, as well as the education and professional development systems of their homeworlds, limiting the number of individuals with unique skill sets and specialized expertise.
+
+Each character has a distinct combination of abilities, though lower-tier roles tend to be more common, forming the backbone of corporate operations. The demand for skilled specialists is exceptionally high, and hiring the right personnel can define a corporation’s efficiency and competitive edge. However, talent scarcity forces companies into aggressive recruitment battles, often requiring significant investments in workforce development to secure a consistent pipeline of specialists.
+
+Access to high-caliber professionals is a key strategic factor in workforce management. Corporations that attract and retain the most capable individuals will optimize operations, innovate faster, and respond more effectively to the challenges of the interstellar market. In a universe where knowledge and expertise are as valuable as any financial asset, securing top-tier personnel is the foundation of long-term corporate dominance.

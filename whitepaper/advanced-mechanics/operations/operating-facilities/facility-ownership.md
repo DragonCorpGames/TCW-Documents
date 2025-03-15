@@ -1,2 +1,11 @@
 # Facility Ownership
 
+In _The Corporate Wars_, corporations hold a vast range of assets that extend far beyond buildings and facilities. Their **holdings include starship fleets, strategic planetary territories, mining concessions on asteroids, commercial route rights, and financial market stakes** through stocks and securities. These properties represent **not just wealth, but influence and control** within the interstellar economy.
+
+Owning a fleet of starships is one of the **most strategic investments** for any corporation. These vessels may serve as **cargo haulers for trade, armed escorts for asset protection, or even mobile production platforms**. In many cases, corporations **lease their ships to third parties or enter into long-term leasing contracts**, ensuring a steady stream of income while avoiding direct operational risks.
+
+The **financial sector** is another critical arena where corporations wield power. By **acquiring stocks and investing in funds**, they can **gain influence over rival companies or diversify capital** without direct involvement in specific industries. Some corporations even **license out technological patents** or **sell operational shares on the stock market**, securing external funding while maintaining **majority control**.
+
+Exploitation rights are among the **most valuable corporate assets**. In many cases, a corporation **may not own the land** on a planet or space station, but **holds exclusive rights** to **mine resources, operate supply hubs, or manage transport networks**. These agreements may be **temporary or renewable**, often becoming battlegrounds for **corporate disputes and hostile takeovers** as entities seek to renegotiate terms or wrest control of key markets.
+
+In space, **ownership is a complex concept**. Often, the **right to use and control an asset is more valuable than direct possession**. Corporations can generate **massive profits without physically owning assets** by controlling **access and exploitation**. Through **concessions, franchises, and strategic leasing**, they can **expand their influence without shouldering maintenance costs**, turning their properties into **weapons in the ongoing economic war** of the interstellar marketplace.

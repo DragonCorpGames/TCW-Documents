@@ -1,2 +1,7 @@
 # Expanding Business
 
+In _The Corporate Wars_, **growth is the only viable strategy** for any corporation seeking **interstellar dominance**. No business can afford to remain static—**constant expansion is essential** to maintaining **competitiveness and securing long-term market presence**. Whether through **increasing production capacity, diversifying operations, or securing new concessions in strategic systems**, expansion is both a **necessity and an opportunity**.
+
+Corporate growth isn’t confined to a **single industry**. The most **successful corporations** pursue **both vertical and horizontal integration**, acquiring **key suppliers, establishing new trade routes, or investing in emerging sectors** before their competitors can react. Expansion can take the form of **direct asset acquisitions and corporate takeovers**, or it can be achieved through **strategic alliances and licensing agreements**, allowing corporations to **enter regulated markets without massive capital investments**.
+
+Growth comes with its **own set of obstacles**. As a corporation **gains influence**, **regulations tighten**, and rivalries **escalate into full-scale conflicts** over market dominance. Yet, **stagnation is not an option**—in a landscape where **competition is relentless and opportunities are scarce**, only corporations that **expand intelligently and aggressively** will secure their place in the **interstellar economy**.
