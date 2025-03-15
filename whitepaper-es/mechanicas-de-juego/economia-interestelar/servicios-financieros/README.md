@@ -7,3 +7,10 @@ Las grandes corporaciones utilizan el crédito como una herramienta de expansió
 Aunque existen intentos de regulación por parte de las potencias galácticas, la descentralización favorece la corrupción, facilitando la existencia de paraísos fiscales orbitales, bancos proxy y manipulaciones monetarias que pueden desequilibrar economías enteras. En este universo, las finanzas no son solo un medio de intercambio, sino un arma de control y poder, utilizada tanto para la expansión económica como para la guerra encubierta entre corporaciones y gobiernos.
 
 El sistema financiero de _The Corporate Wars_ no es solo un reflejo del comercio interestelar, sino una arena estratégica donde se definen las verdaderas luchas de poder en la galaxia.
+
+***
+
+{% hint style="info" %}
+Los servicios financieros están disponibles como contratos entre dos o más partes, cuyos términos son configurables por el emisor y quedan sujetos a la entidad de gobernanza relevante. [Leer más...](../../../tokenomics/tokens-no-fungibles-nft/contratos-tokenizados.md)
+{% endhint %}
+

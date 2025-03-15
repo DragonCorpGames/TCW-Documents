@@ -7,5 +7,5 @@ Las tasas de interés varían en función de la conectividad del sistema estelar
 ***
 
 {% hint style="info" %}
-Los contratos hipotecarios ofrecen crédito a cambio de garantías, normalmente en forma de títulos de propiedad de inmuebles u otros bienes valorables.
+Los contratos hipotecarios ofrecen crédito a cambio de garantías, normalmente en forma de títulos de propiedad de inmuebles u otros bienes valorables. [Leer más...](../../../tokenomics/tesoreria/banca-in-game.md)
 {% endhint %}
