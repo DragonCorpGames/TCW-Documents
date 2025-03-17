@@ -12,3 +12,8 @@ Las corporaciones que operan en este sector deben gestionar la prospección, ext
 
 Controlar una concesión clave puede dar a una corporación un poder económico formidable, permitiéndole negociar desde una posición de fuerza o incluso establecer monopolios sobre ciertos materiales esenciales.
 
+***
+
+{% hint style="success" %}
+Explotar una concesión es un desafío adecuado para los jugadores que prefieren un estilo de juego general, equilibrado y predecible.
+{% endhint %}
