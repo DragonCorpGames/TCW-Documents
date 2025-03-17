@@ -6,6 +6,12 @@ description: >-
 
 # Mercantile and Freight
 
-Commerce and freight transport form the backbone of the interstellar economy. The ability to efficiently move goods, supplies, and personnel defines the success of any corporation. Specialized enterprises handle market connectivity, product distribution, and the maintenance of essential trade routes, managing fleets of freighters, trade hubs, and logistical networks.
+Mercantile and freight are the backbone of the interstellar economy. The ability to efficiently move goods, supplies, and people defines the success of any corporation. Specialized companies connect markets, distribute manufactured products, and keep key communication routes operational by managing fleets of freighters, trade stations, and logistical networks.
 
-Corporations must optimize their transport routes, safeguard their convoys, and establish trade agreements with clients and strategic partners. A well-managed freight infrastructure not only ensures a steady flow of commerce but also serves as a tool for market monopolization, price control, and economic influence over emerging systems. Those who dominate logistics dictate the flow of interstellar trade, positioning themselves as key players in The Corporate Wars.
+Corporations must optimize their transportation routes, ensure the protection of their convoys, and establish trade agreements with clients and strategic partners. A well-managed freight infrastructure not only enables the efficient flow of goods but can also be used to monopolize markets, control prices, and exert influence over emerging economies.
+
+***
+
+{% hint style="warning" %}
+Operating in interstellar mercantile and freight is the most direct way to engage in the interstellar economy. It is the most suitable field for players who prefer exploration, searching for new opportunities, and facing challenges with limited resources.
+{% endhint %}

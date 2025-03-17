@@ -8,12 +8,12 @@ coverY: 0
 
 # Corporations
 
-In The Corporate Wars, corporations are the backbone of economic activity, interstellar expansion, and resource management in an environment where instant communication is not viable. They serve as both engines of development and instruments of influence, shaping the balance of power across the galaxy.
+In an environment where instant communications are not viable, corporations represent the core of economic activity, interstellar expansion, and resource management.
 
-Players can own and manage their own corporations, expanding their influence through various strategies such as resource exploitation, manufacturing, trade, security, or financial services. Every business decision impacts the interstellar economy, political relations, and territorial control.
+They are both engines of development and weapons of influence, used to shape the balance of power in the galaxy.
 
-Corporations do more than generate wealth�they directly influence the stability of interstellar commerce. Their ability to monopolize markets, impose tariffs, manipulate trade routes, and control key infrastructure makes them pivotal actors in the universe of The Corporate Wars.
+Players can own and manage their own corporations, expanding their influence through various strategies—from resource exploitation, manufacturing, and trade, to security or financial services. Every business decision has repercussions on the interstellar economy, political relations, and territorial control.
 
-Players must constantly assess their economic and political strategies, as the success of their corporation depends not only on internal management but also on their ability to navigate challenges imposed by external entities and galactic regulations.
+Players must constantly evaluate their economic strategies and political relationships. Whether operating a planet or leading an independent fleet, the success of their corporation depends not only on internal management but also on their ability to thrive in the markets while navigating the challenges imposed by governments and regulatory entities.
 
-Corporations hold the power to define the future of the galaxy, whether through cooperation, ruthless competition, or strategic market manipulation. The key to success lies in a combination of business vision, aggressive tactics, and adaptability in an ever-evolving universe.
+Corporations have the power to define the future of the galaxy—whether through cooperation, ruthless competition, or strategic market manipulation. The key to success lies in a combination of business vision, aggressive tactics, and adaptability in an ever-changing universe.
