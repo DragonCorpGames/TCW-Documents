@@ -19,11 +19,23 @@ layout:
 
 # The Corporate Wars
 
-_The Corporate Wars_ thrusts players into a distant future where humanity has conquered the stars—yet remains locked in an endless struggle for control over wealth, power, and the flow of information.
+In the distant future, humanity has conquered the vastness of space—but remains ensnared in an endless struggle for control over markets and information.
 
-Across the vast gulf of space, instant communication is a fantasy. Trade routes aren’t just lifelines for goods—they’re the arteries of civilization, carrying data, secrets, and influence. In this fragile web, economic decentralization isn’t just inevitable—it’s an opportunity waiting to be exploited. Corporations navigate ruthless logistical constraints and the ever-tightening grip of galactic powers desperate to keep their hold on interstellar commerce.
+_The Corporate Wars_ is a real-time strategy game where players take command of powerful corporations in a high-stakes battle for economic dominance. Blending economic simulation, resource management, and exploration with innovative P2E mechanics, the game unfolds in an open world where every decision ripples across the galaxy, shaping the course of history.
 
-Here, industry, finance, and trade aren’t just the gears of progress—they’re weapons in a war fought in boardrooms and back alleys alike. From stock market sabotage to the quiet conquest of entire star systems, every move shifts the balance of power. Diplomacy is a mask for coercion, and information is the deadliest currency in a battlefield where fortunes rise and fall at the speed of commerce.
+#### **The Information Problem**
+
+Interstellar distances make instant communication impossible. Radio waves cannot travel faster than light, and messages can take years—sometimes decades—to reach even the nearest star. In this reality, trade routes become the only reliable means of information flow.
+
+Faster-than-light ships, equipped with advanced transit capacitors, serve as the lifeblood of interstellar communication, reducing transmission delays to the speed of commerce itself. Yet, this logistical challenge looms over every civilization in the known galaxy, shaping economies, influencing policies, and triggering some of the most catastrophic crises in history.
+
+A delicate balance exists between large-scale economic decentralization and the political will of interstellar powers seeking to maintain their grip on trade. Players must navigate ruthless logistical constraints while adapting to ever-changing regulations imposed by ruling factions determined to shape the flow of commerce to their advantage.
+
+#### **The Art of War in a Corporate Age**
+
+In this unforgiving landscape, industry, banking, and trade are more than just engines of progress—they are weapons in a shadow war for supremacy. Financial manipulation, economic sabotage, and political subjugation of key regions become vital tools in the struggle for power.
+
+Diplomacy is a façade. Information is the most valuable currency. And in a conflict where the true battlefield is the interstellar economy, every decision reshapes the balance of power.
 
 ### Jump right in
 
