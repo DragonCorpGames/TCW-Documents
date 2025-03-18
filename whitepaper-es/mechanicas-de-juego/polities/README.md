@@ -1,4 +1,5 @@
 ---
+cover: ../../.gitbook/assets/banner-senate.jpg
 coverY: 0
 layout:
   cover:
@@ -16,5 +17,5 @@ layout:
     visible: true
 ---
 
-# Polities
+# Políticas
 
