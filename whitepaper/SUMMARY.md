@@ -79,7 +79,7 @@
     * [Trade and Supply Market](advanced-mechanics/expanding-business/securing-assets/trade-and-supply-market.md)
     * [Leasing, Lending and Ownership](advanced-mechanics/expanding-business/securing-assets/leasing-lending-and-ownership.md)
 * [Polities](advanced-mechanics/polities/README.md)
-  * [Governments](advanced-mechanics/polities/governments/README.md)
+  * [Governments](advanced-mechanics/polities/governments.md)
     * [Corporate Government](advanced-mechanics/polities/governments/corporate-government.md)
   * [Institutions](advanced-mechanics/polities/institutions.md)
   * [Cartels](advanced-mechanics/polities/cartels.md)
