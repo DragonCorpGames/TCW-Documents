@@ -19,7 +19,7 @@ layout:
 
 # In-Game P2E
 
-_The Corporate Wars_ es un MMORTS de simulación táctica y económica ambientado en un futuro lejano, donde las comunicaciones dependen exclusivamente del tránsito interestelar para conectar mundos dispersos entre las estrellas. En este escenario, los jugadores asumen el rol de corporaciones en expansión para, a través de la administración y gestión de recursos y activos, despliegan estrategias para expandir su influencia en el comercio interestelar.
+_The Corporate Wars_ es un MMORTS de simulación táctica y económica ambientado en un futuro lejano, donde las comunicaciones dependen exclusivamente del tránsito interestelar para conectar mundos dispersos entre las estrellas. En este escenario, los jugadores asumen el rol de corporaciones en expansión que, a través de la administración y gestión de recursos y activos, despliegan estrategias para expandir su influencia en el comercio interestelar.
 
 La economía del juego se fundamenta en mundos en distintas fases de integración con el mercado galáctico. Desde colonias aisladas hasta metrópolis plenamente integradas, cada planeta ofrece oportunidades y riesgos que los jugadores deben evaluar para obtener beneficios y fortalecer sus operaciones. Este trasfondo dinámico permite que la expansión y la reactivación de rutas comerciales sean elementos clave en la jugabilidad.
 
