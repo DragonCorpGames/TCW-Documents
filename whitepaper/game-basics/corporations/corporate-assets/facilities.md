@@ -4,6 +4,6 @@ description: Operational hubs and production centers essential for expansion and
 
 # Facilities
 
-Facilities form the operational core of every corporation. They include factories, refineries, space stations, logistics hubs, starports, and research laboratories. Their location and efficiency determine a corporation’s productive capacity and expansion potential, requiring continuous investment in infrastructure, security, and technology to remain competitive.
+Facilities are the operational core of every corporation. They include factories, refineries, space stations, logistics centers, starports, and research laboratories. Their location and efficiency determine the companyâ€™s production capacity and potential for expansion, and their development requires investment in infrastructure, security, and technology.
 
-Each facility type serves a specific function within the corporation’s operational chain—whether in manufacturing, resource exploitation, trade, or defense. Effective facility management allows corporations to scale production, optimize costs, and increase their ability to respond to market opportunities or emerging threats. Those who control critical facilities dictate the economic flow and industrial power of the galaxy.
+Each type of facility plays a specific role within the corporationâ€™s operational chain â€” whether in manufacturing, resource exploitation, trade, or defense. Proper management allows corporations to scale production, optimize costs, and increase their responsiveness to market opportunities or threats.

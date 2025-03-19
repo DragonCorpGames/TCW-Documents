@@ -4,10 +4,10 @@ description: Clusters of mineral-rich space debris essential for industrial supp
 
 # Asteroid Belts
 
-Asteroid belts are dense regions of rock and metal debris within a star system, remnants of planetary formation. Though inhospitable to life, these fields of fragmented material are vital to the interstellar economy, containing high concentrations of essential minerals for manufacturing and space infrastructure development.
+Asteroid belts are regions within a star system filled with rocky and metallic fragments — remnants of planetary formation. Though inhospitable to life, these debris fields are vital to the interstellar economy, as they contain high concentrations of minerals essential for manufacturing and the construction of space infrastructure.
 
-Corporations exploit asteroid belts through mining stations and automated extraction fleets, processing asteroids for valuable materials such as heavy metals, rare earth elements, and compounds used in advanced technologies. The low-gravity environment makes mining in these zones far more efficient than planetary extraction, allowing cheaper transportation of raw resources across the galaxy.
+Corporations exploit these belts through mining stations and automated extraction fleets that process asteroids in search of valuable materials such as heavy metals, rare earth elements, and compounds used in advanced technologies. Due to the lack of significant gravity, mining in these environments is more efficient than planetary extraction, allowing resources to be transported with lower energy costs.
 
-Beyond their industrial value, asteroid belts serve as strategic locations for hidden bases, pirate refuges, and covert military installations. Their fragmented nature and constant movement make detection and access difficult, turning them into ideal territories for off-the-grid operations beyond the supervision of major interstellar powers.
+Beyond their industrial value, asteroid belts also serve as strategic points for hidden bases, pirate havens, or covert military installations. Their fragmented composition and countless moving objects make detection and access difficult, turning them into ideal territories for operations beyond the oversight of major powers.
 
-Controlling a key asteroid belt grants a corporation a major advantage in the trade of critical materials, ensuring a steady supply for industrial expansion and fleet production. In a universe where resources dictate power, these rich, contested regions are both a source of wealth and battlegrounds for corporate dominance.
+Control over a key asteroid belt can grant a corporation a significant advantage in the trade of critical materials, ensuring a steady supply for industrial expansion and starship production. In a universe where resources define power, these regions represent both a source of immense wealth and a potential battleground for control over their vast resources.

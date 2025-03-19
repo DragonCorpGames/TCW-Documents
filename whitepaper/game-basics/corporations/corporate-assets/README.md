@@ -6,6 +6,14 @@ description: >-
 
 # Corporate Assets
 
-A corporation’s assets determine its ability to operate, expand, and exert influence within the interstellar landscape. These assets form the foundation upon which economic, commercial, and military strategies are built, making their proper management essential for long-term sustainability and growth.
+A corporationâ€™s assets determine its ability to operate, expand, and exert influence within the interstellar environment. They are the foundation upon which economic, commercial, and military strategies are built, and their proper management is key to long-term sustainability and growth.
 
-From infrastructure and fleet resources to personnel and exclusive holdings, every asset plays a role in defining a corporation’s competitive edge. Those who efficiently allocate and control their assets will shape trade networks, dominate industrial sectors, and establish themselves as key players in The Corporate Wars.
+Corporations operate across various market sectors that require specific assets to run their operations: facilities, vehicles and machinery, owned resources, warehouses and energy access, licenses, grants, liquidity â€” as well as workers and specialized personnel.
+
+The variety of available assets is vast, and it is up to the players to develop strategies for acquiring, maintaining, financing, and implementing their corporationâ€™s assets. Over-acquisition can drain capital and hinder short-term operations, while operating without adequate asset reserves can lead to serious problems during periods of scarcity.
+
+***
+
+{% hint style="info" %}
+All corporations are assigned an initial asset package, essential for operations. Players can acquire assets on the market, contribute capital (MCr or SOL), or provide non-fungible tokens (NFTs) from their wallets. [Read more...](../../../tokenomics/non-fungible-tokens/)
+{% endhint %}

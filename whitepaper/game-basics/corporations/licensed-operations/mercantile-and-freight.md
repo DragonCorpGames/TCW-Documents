@@ -6,9 +6,9 @@ description: >-
 
 # Mercantile and Freight
 
-Mercantile and freight are the backbone of the interstellar economy. The ability to efficiently move goods, supplies, and people defines the success of any corporation. Specialized companies connect markets, distribute manufactured products, and keep key communication routes operational by managing fleets of freighters, trade stations, and logistical networks.
+Mercantile and freight are the backbone of the interstellar economy. The ability to move goods, supplies, and people efficiently defines the success of any corporation. Specialized companies are responsible for connecting markets, distributing manufactured products, and keeping key communication routes operational by managing fleets of freighters, exchange stations, and logistical networks.
 
-Corporations must optimize their transportation routes, ensure the protection of their convoys, and establish trade agreements with clients and strategic partners. A well-managed freight infrastructure not only enables the efficient flow of goods but can also be used to monopolize markets, control prices, and exert influence over emerging economies.
+Corporations must optimize their transport routes, ensure the protection of their convoys, and establish trade agreements with clients and strategic partners. A well-managed transportation infrastructure not only enables the efficient flow of goods but can also be used to monopolize markets, control prices, and exert influence over emerging economies.
 
 ***
 

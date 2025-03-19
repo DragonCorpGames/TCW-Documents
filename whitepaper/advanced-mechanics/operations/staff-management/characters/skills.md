@@ -1,5 +1,3 @@
 # Skills
 
-As a character advances in their career, their skills and competencies become more specialized, reducing the number of individuals with identical profiles. However, at lower levels of specialization, professionals tend to have similar capabilities, increasing competition within the labor market.
-
-For corporations, managing this talent pool is critical—securing highly skilled specialists while effectively allocating generalist professionals is essential for long-term dominance in the interstellar economy. Companies that strategically invest in workforce development and specialization will maintain a decisive edge in the battle for market control and corporate supremacy.
+As a character progresses in their career, their skills and competencies become more specialized, reducing the number of individuals with identical profiles. However, at lower levels — where specialization is limited — it is more common to find professionals with similar abilities, increasing competition within the labor market. Managing this talent is crucial for any company aiming to consolidate its dominance in the interstellar economic environment.

@@ -1,7 +1,7 @@
 # Trade Routes
 
-Trade routes are the foundation of interstellar commerce, dictating the flow of goods, passengers, and information between star systems. Their efficiency hinges on connectivity, traffic frequency, starport infrastructure, security, and local regulations.
+Trade routes are the backbone of interstellar commerce, determining the flow of goods, passengers, and information between systems. Their efficiency depends on connectivity, traffic frequency, starport infrastructure, security, and local regulations.
 
-Systems well integrated into the trade network sustain dynamic markets, while those in isolated regions face volatility and shortages. Trade routes can be divided into long-haul commerce, dominated by megacorporations, and short-range trade, where independent merchants thrive. The security and stability of these routes are shaped by patrol presence, piracy threats, and government-imposed restrictions.
+Systems well integrated into the trade network maintain dynamic markets, while those in isolated regions face volatility and scarcity. Routes can be divided into long-range trade, operated by megacorporations, and short-range trade, dominated by independent merchants. The security and stability of these routes are influenced by the presence of patrols, piracy, and government restrictions.
 
-High-class starports support regular trade with maintenance and storage services, while in systems with weaker infrastructure, commerce becomes a far riskier venture. Collectively, trade routes shape the interstellar economy, determining which worlds flourish and which remain on the fringes of development.
+Additionally, high-class starports facilitate regular trade with maintenance and storage services, while systems with limited infrastructure make trade riskier. Altogether, trade routes shape the interstellar economy, defining which worlds thrive and which remain on the margins of development.

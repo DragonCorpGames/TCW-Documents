@@ -1,9 +1,5 @@
 # Careers
 
-In _The Corporate Wars_, a character’s profession reflects a life trajectory shaped by their society and the opportunities available to them. Each individual follows a career path that defines their skills, experience, and value within the corporate structure. These professional routes can lead from operational roles to leadership positions, depending on their expertise and strategic importance.
+In **The Corporate Wars**, a character’s career represents a life path shaped by the society they come from and the opportunities they’ve had access to. Each character follows a professional trajectory that defines their skills, experience, and value within the corporate structure — with career paths that can lead them from operational roles to leadership positions in their respective specialties.
 
-Professional careers in _The Corporate Wars_ span a wide array of disciplines, from administration and commerce to exploration and security. Some individuals begin in technical fields, becoming engineers, scientists, or logistics specialists, while others pursue paths in finance, diplomacy, or corporate strategy.
-
-Additionally, military and paramilitary careers offer alternative routes, where combat experience and tactical operations are crucial for asset protection, security enforcement, and conflict resolution.
-
-Each profession plays a critical role in the interstellar economy, shaping the corporate power structure. Whether navigating high-risk investments, leading research initiatives, or commanding security teams, characters carve out unique paths that define their influence and success within the ever-evolving corporate battleground.
+Professional careers span a wide range of disciplines, from administration and commerce to exploration and security. Some characters start in technical fields, becoming engineers, scientists, or logistics specialists, while others pursue careers in finance, diplomacy, or corporate strategy. There are also military and paramilitary paths, where combat experience and tactical operations are essential for asset protection and conflict resolution.

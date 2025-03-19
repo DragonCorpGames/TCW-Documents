@@ -6,15 +6,13 @@ description: >-
 
 # Colonial Services
 
-Developing worlds, newly contacted planets, and emerging colonies require essential infrastructure and services to operate efficiently.
+Developing worlds, newly contacted planets, and fresh colonies require essential infrastructure and services to operate efficiently. Worlds with extreme climates, exotic atmospheres, or scarce resources depend on technological imports, implementation, management, maintenance, and administration of multiple services to ensure the colony’s survival.
 
-Worlds with extreme climates, exotic atmospheres, or scarce resources depend on technological imports, implementation, management, maintenance, and administration of multiple services to ensure the colony’s survival.
+These services include power supply, waste management, potable water distribution, life support, communications, and logistics, among many other specific needs. Across developed worlds in the galaxy, governments have extensively practiced service outsourcing since the pre-stellar era.
 
-These services include energy supply, waste management, potable water distribution, life support, communications, and logistics, among many other specialized needs. Across developed worlds throughout the galaxy, governments have extensively practiced service outsourcing since the pre-stellar era.
+Corporations provide these services to independent colonial communities that prefer to focus on their core activities — such as agriculture, industry, or mining — without taking on the burden of administrative and operational management of the colony.
 
-Corporations provide these services to independent colonial communities that prefer to focus on their primary activities—such as agricultural, industrial, or mining production—without assuming the burden of administrative and operational management.
-
-Corporations operating in this sector function as support providers for settlements, relying on the interstellar market to ensure that colonies can focus on their core activities without worrying about structural necessities. Controlling these services allows corporations to establish dependency relationships with the colonies, securing long-term profits and a strategic position within planetary politics.
+Corporations operating in this sector act as support providers for settlements, relying on the interstellar market to ensure colonies can focus on their activities without worrying about structural needs. Controlling these services allows corporations to establish dependency relationships with colonies, securing long-term profits and a strategic position within planetary politics.
 
 ***
 

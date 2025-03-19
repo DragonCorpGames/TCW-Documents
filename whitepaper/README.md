@@ -19,19 +19,19 @@ layout:
 
 # The Corporate Wars
 
-_The Corporate Wars_ transports players to a distant future, where humanity has conquered the vastness of the cosmos but remains trapped in an endless struggle for control over markets and information.
+**The Corporate Wars** transports players to a distant future where humanity has conquered the vastness of the cosmos but remains trapped in an endless struggle for control over markets and information.
 
-It is a real-time strategy game in which players take control of corporations in the far future. _The Corporate Wars_ merges economic simulation, resource management, and exploration with innovative P2E mechanics in an open-world setting, where every small change will directly impact the development of the game.
+It is a real-time strategy game in which players take control of powerful corporations in the far future. **The Corporate Wars** merges economic simulation, resource management, and exploration with innovative P2E mechanics, set in an open-world environment where every small change will directly impact the game’s development.
 
-### **The Information Problem**
+### The Information Problem
 
-Interstellar distances make instant communication unfeasible. Radio waves cannot travel faster than light, and messages take years to reach even the nearest star.
+Interstellar distances make instant communication impossible. Radio waves cannot travel faster than light, and messages take years to reach even the nearest star.
 
-This leaves trade routes as the only reliable means of information flow: interstellar ships, equipped with transit capacitors, travel at superluminal speeds, allowing communication latency to be reduced to the speed of trade routes. The logistical management of interstellar communications is a challenge faced by all civilizations in interstellar society, being the cause of the greatest crises in the history of the galaxy.
+This leaves trade routes as the only reliable means of information flow: interstellar ships, equipped with transit capacitors, travel at superluminal speeds, reducing communication latency to the speed of trade routes. The logistical management of interstellar communications is a challenge faced by every civilization in interstellar society and has been the cause of the greatest crises in the galaxy's history.
 
-It is a fragile framework, balanced between large-scale economic decentralization and local policies, where players must adjust their strategies, overcoming ruthless logistical constraints and facing regulations imposed by interplanetary powers seeking to maintain their influence over interstellar trade.
+It is a fragile framework, balanced between large-scale economic decentralization and local policies, where players must constantly adjust their strategies, overcoming ruthless logistical constraints and facing regulations imposed by interplanetary powers seeking to maintain their influence over interstellar trade.
 
-In this scenario, industry, banking, and trade are not just engines of progress but weapons in a covert war for supremacy. From financial manipulation to the political subjugation of key regions, every decision redefines the balance of power. Diplomacy is a veil, and information is the most valuable currency in a conflict where the true battlefield is the interstellar economy.
+In this scenario, industry, banking, and commerce are not just engines of progress but weapons in a covert war for supremacy. From financial manipulation to the political subjugation of key regions, every decision redefines the balance of power. Diplomacy is a mere veil, and information is the most valuable currency in a conflict where the true battlefield is the interstellar economy.
 
 ### Jump right in
 
