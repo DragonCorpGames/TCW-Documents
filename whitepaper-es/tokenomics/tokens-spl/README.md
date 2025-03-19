@@ -1,7 +1,3 @@
 # Tokens SPL
 
-La simualcion economico-financiera de _The Corporate Wars_ esta integrada en la blockchain Solana, por lo que la moneda principal del juego y otros elementos de utilidad son tokens SPL.
-
-Todos los tokens son transferibles fuera del juego, y el sistema de juego tiene esto en cuenta a la hora de adaptar las disponibilidades de transferencia a la disponibilidad real de los tokens en la cuenta del jugador.
-
-Al mismo tiempo, el sistema de&#x20;
+La economía de _The Corporate Wars_ se articula sobre un conjunto de tokens SPL en la blockchain de Solana, diseñados para representar tanto la moneda de mercado como los valores macroeconómicos de los sistemas estelares y sus recursos. Estos tokens son la base de todas las transacciones financieras y comerciales del juego, permitiendo la circulación de capital, la inversión en infraestructuras y la especulación dentro del universo persistente.
